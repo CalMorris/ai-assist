@@ -2,7 +2,7 @@
 A resource to facilitate development tasks and workflows.
 
 ## Directory Structure
-.
+.ai-assist
 ├── agents
 │   └── code-reviewer.md
 ├── LICENSE
